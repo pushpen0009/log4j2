@@ -1,0 +1,54 @@
+2020-01-14 15:02:08.671 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Error : number is 22
+2020-01-14 15:02:08.671 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Fatal : number is 22
+2020-01-14 15:02:08.671 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Error : You chose a number < 100 
+2020-01-14 15:02:08.671 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Fatal : You chose a number < 100 
+2020-01-14 15:02:08.671 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Error : Your number has the digit 2
+2020-01-14 15:02:08.671 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Fatal : Your number has the digit 2
+2020-01-14 15:02:24.883  INFO WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Info : number is 232
+2020-01-14 15:02:24.885  WARN WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Warning : number is 232
+2020-01-14 15:02:24.886 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Error : number is 232
+2020-01-14 15:02:24.886 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Fatal : number is 232
+2020-01-14 15:02:24.886  INFO WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Info : You chose a number > 100 
+2020-01-14 15:02:24.886  WARN WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Warning : You chose a number > 100 
+2020-01-14 15:02:24.886 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Error : You chose a number > 100 
+2020-01-14 15:02:24.886 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Fatal : You chose a number > 100 
+2020-01-14 15:02:24.886  INFO WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Info : Your number has the digit 2
+2020-01-14 15:02:24.886  WARN WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Warning : Your number has the digit 2
+2020-01-14 15:02:24.886 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Error : Your number has the digit 2
+2020-01-14 15:02:24.886 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Fatal : Your number has the digit 2
+2020-01-14 15:02:24.886  INFO WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Info : Your number has the digit 3
+2020-01-14 15:02:24.887  WARN WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Warning : Your number has the digit 3
+2020-01-14 15:02:24.887 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Error : Your number has the digit 3
+2020-01-14 15:02:24.887 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : Fatal : Your number has the digit 3
+2020-01-14 15:05:18.421  INFO WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Info : number is 23
+2020-01-14 15:05:18.421  WARN WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Warning : number is 23
+2020-01-14 15:05:18.421 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Error : number is 23
+2020-01-14 15:05:18.421 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Fatal : number is 23
+2020-01-14 15:05:18.421  INFO WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Info : You chose a number < 100 
+2020-01-14 15:05:18.421  WARN WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Warning : You chose a number < 100 
+2020-01-14 15:05:18.421 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Error : You chose a number < 100 
+2020-01-14 15:05:18.424 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Fatal : You chose a number < 100 
+2020-01-14 15:05:18.424  INFO WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Info : Your number has the digit 2
+2020-01-14 15:05:18.424  WARN WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Warning : Your number has the digit 2
+2020-01-14 15:05:18.424 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Error : Your number has the digit 2
+2020-01-14 15:05:18.424 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Fatal : Your number has the digit 2
+2020-01-14 15:05:18.424  INFO WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Info : Your number has the digit 3
+2020-01-14 15:05:18.424  WARN WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Warning : Your number has the digit 3
+2020-01-14 15:05:18.424 ERROR WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Error : Your number has the digit 3
+2020-01-14 15:05:18.424 FATAL WKWIN4146653 --- [           main] c.m.l.m.LogApp                           : {FATAL=bg_red, ERROR=red, WARN=yellow, INFO=green}
+                Fatal : Your number has the digit 3
